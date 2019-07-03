@@ -1,0 +1,11 @@
+name: Libre Home
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+search_enabled: true
+# Aux links for the upper right navigation
+aux_links:
+    "Libre Home":
+      - "http://libre-home.com"
+# Color scheme currently only supports "dark" or nil (default)
+# color_scheme: "dark"
