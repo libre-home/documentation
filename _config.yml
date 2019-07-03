@@ -9,3 +9,7 @@ aux_links:
       - "http://libre-home.com"
 # Color scheme currently only supports "dark" or nil (default)
 # color_scheme: "dark"
+
+include:
+    index.md
+    README.md
